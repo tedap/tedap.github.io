@@ -1,0 +1,22 @@
+/* Dark mode styles for Jekyll Minima */
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #181a1b;
+    color: #e8e6e3;
+  }
+  a { color: #8ab4f8; }
+  header, nav, footer {
+    background: #23272a;
+    color: #e8e6e3;
+  }
+  .site-title, .site-title a {
+    color: #fff;
+  }
+  .post-title, h1, h2, h3, h4, h5, h6 {
+    color: #fff;
+  }
+  code, pre {
+    background: #23272a;
+    color: #e8e6e3;
+  }
+}

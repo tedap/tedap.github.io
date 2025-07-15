@@ -1,0 +1,11 @@
+# Jekyll and GitHub Pages
+_site/
+
+# Bundler dependencies
+vendor/
+.bundle/
+
+# OS and editor files
+.DS_Store
+*.log
+*.swp
